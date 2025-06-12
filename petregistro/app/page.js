@@ -1,0 +1,10 @@
+import Image from "next/image";
+
+export default function Home() {
+  return (
+    <div>
+
+      Ola Mundo ALmir Kiara
+      </div>
+  );
+}
